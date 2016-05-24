@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given I have closed all but the first ${1:window|tab}]]></content>
+    <tabTrigger>giv</tabTrigger>
+    <scope>source.feature</scope>
+</snippet>

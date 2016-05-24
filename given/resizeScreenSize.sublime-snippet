@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given I have a screen that is ${1:n} by ${2:n} pixels]]></content>
+    <tabTrigger>giv</tabTrigger>
+    <scope>source.feature</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given the "${1:element|inputfield}" "${2:string}" does "${3:not}" contain any text]]></content>
+    <tabTrigger>giv</tabTrigger>
+    <scope>source.feature</scope>
+</snippet>

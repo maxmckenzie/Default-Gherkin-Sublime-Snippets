@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given the element "${1:string}" contains "${2:not}" the same text as element "${3:string}"]]></content>
+    <tabTrigger>giv</tabTrigger>
+    <scope>source.feature</scope>
+</snippet>

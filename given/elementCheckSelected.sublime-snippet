@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Given the element "${1:string}" is ${2:not} selected]]></content>
+    <tabTrigger>giv</tabTrigger>
+    <scope>source.feature</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Given the title is {$1:not} "{$2:string}"]]></content>
     <tabTrigger>giv</tabTrigger>
-    <scope>source.feature</scope>
+    <scope>text.gherkin.feature</scope>
 </snippet>

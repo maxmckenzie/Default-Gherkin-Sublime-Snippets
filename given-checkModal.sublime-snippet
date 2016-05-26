@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Given a ${1:alertbox|confirmbox|prompt} is ${2:not} opened]]></content>
     <tabTrigger>giv</tabTrigger>
-    <scope>source.feature</scope>
+    <scope>text.gherkin.feature</scope>
 </snippet>

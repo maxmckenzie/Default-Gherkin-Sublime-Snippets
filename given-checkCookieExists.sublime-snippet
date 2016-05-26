@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Given the cookie "${1:string}" does ${2:not} exist]]></content>
     <tabTrigger>giv</tabTrigger>
-    <scope>source.feature</scope>
+    <scope>text.gherkin.feature</scope>
 </snippet>

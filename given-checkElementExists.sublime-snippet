@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[Given there is ${1:an|no} element ${2:string} on the page]]></content>
     <tabTrigger>giv</tabTrigger>
-    <scope>source.feature</scope>
+    <scope>text.gherkin.feature</scope>
 </snippet>

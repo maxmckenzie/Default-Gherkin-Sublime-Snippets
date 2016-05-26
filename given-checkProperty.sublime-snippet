@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Given the ${2:css} attribute "${1:string}" from element "$string" is ${2:not} "${3:string}"]]></content>
+    <content><![CDATA[Given the ${1:css} attribute "${2:string}" from element "${3:string}" is ${4:not} "${5:string}"]]></content>
     <tabTrigger>giv</tabTrigger>
-    <scope>source.feature</scope>
+    <scope>text.gherkin.feature</scope>
 </snippet>

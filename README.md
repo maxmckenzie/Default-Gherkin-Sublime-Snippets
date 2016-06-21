@@ -14,17 +14,17 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 
 Install Package Cucumber
 
-Mac OSX:
+  Mac OSX:
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 git clone git://github.com/drewda/cucumber-sublime-bundle.git Cucumber
 ```
-Linux:
+  Linux:
 ```
 cd ~/.config/sublime-text-2/Packages
 git clone git://github.com/drewda/cucumber-sublime-bundle.git Cucumber
 ```
-Windows:
+  Windows:
 ```
 cd Users/<user>/AppData/Roaming/Sublime\ Text\ 2/Packages/
 git clone git://github.com/drewda/cucumber-sublime-bundle.git Cucumber

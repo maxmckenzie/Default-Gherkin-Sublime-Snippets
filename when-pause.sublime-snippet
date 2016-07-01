@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I pause for {$1:0}ms]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

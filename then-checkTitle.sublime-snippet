@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that the title is {$1:not} "{$2:string}"]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

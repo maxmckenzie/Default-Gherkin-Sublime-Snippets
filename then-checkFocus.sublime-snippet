@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that element "{$1:string}" is {$2:not} focused]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

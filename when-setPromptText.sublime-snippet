@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I enter "{$1:string}" into the prompt]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

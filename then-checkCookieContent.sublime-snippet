@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that cookie "{$1:string}" {$2:not} exists]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I wait on element "{$1:string}"( for {$2:0}ms)*( to {$3:not} {$4:be checked|be enabled|be selected|be visible|contain a text|contain a value|exist}]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

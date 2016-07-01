@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I move to element "{$1:string}" {$2:with an offset of {$3:0},{$4:0}}]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

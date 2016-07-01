@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I {$1:click|doubleclick} on the {$2:link|button|element} "{$3:string}"]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

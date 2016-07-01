@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I {$1:accept|dismiss} the {$2:alertbox|confirmbox|prompt}]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

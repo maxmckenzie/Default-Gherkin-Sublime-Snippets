@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that a {$1:alertbox|confirmbox|prompt} {$2:not} contains the text "{$3:text}"]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

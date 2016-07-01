@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I focus the last opened {$1:window|tab}]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

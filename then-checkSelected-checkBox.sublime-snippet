@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that checkbox "{$1:string}" is {2:not} checked]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

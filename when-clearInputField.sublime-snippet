@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I clear the inputfield "{$1:string}"]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

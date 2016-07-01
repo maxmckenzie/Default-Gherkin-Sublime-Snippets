@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I set a cookie "{$1:string}" with the content "{$2:string}"]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

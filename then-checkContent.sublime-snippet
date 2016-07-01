@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that {$1:element|inputfield} "{$2:string}" {$3:not} contains the text "{$4:string}"]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

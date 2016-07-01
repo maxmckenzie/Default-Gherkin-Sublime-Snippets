@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that the {$1:css} attribute "{$2:string}" from element "{$3:string}" is {$4:not} "{$5:string}"]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

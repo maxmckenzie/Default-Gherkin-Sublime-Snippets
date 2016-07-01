@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect a new {$1:window|tab} has {$2:not} been opened]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

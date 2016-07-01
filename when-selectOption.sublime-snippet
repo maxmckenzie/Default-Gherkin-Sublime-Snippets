@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I select the option with the {$1:name|value|text} "{$2:string}" for element "{$3:string}"]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

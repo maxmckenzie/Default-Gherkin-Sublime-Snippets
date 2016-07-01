@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect that element "{$1:string}" is {$2:not} positioned at {$3:0}px on the {$4:x|y} axis]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Then I expect the url "{$1:string}" is opened in a new {$2:tab|window}]]></content>
+    <tabTrigger>the</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>

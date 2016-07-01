@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[When I log in to site with username "{$1:string}" and password "{$2:string}"]]></content>
+    <tabTrigger>whe</tabTrigger>
+    <scope>text.gherkin.feature</scope>
+</snippet>
